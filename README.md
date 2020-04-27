@@ -32,3 +32,6 @@ Typical accelerometers are made up of multiple axes, two to determine most two-d
 
 Accelerometers, while actively used in many electronics in today’s world, are also available for use in custom projects. Whether you’re an engineer or tech geek, the accelerometer plays a very active role in a wide range of functionalities. In many cases you may not notice the presence of this simple sensor, but odds are you may already be using a device with it.
 
+## Prediction of Accident ##
+
+While General measurement of Acceleration, the device is stationary. Therefore when the device suddenly changes its reading, it is either due to some accident in the car or if accidently phone falls on the ground. 
