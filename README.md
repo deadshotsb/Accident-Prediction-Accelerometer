@@ -35,3 +35,4 @@ Accelerometers, while actively used in many electronics in today’s world, are 
 ## Prediction of Accident ##
 
 While General measurement of Acceleration, the device is stationary. Therefore when the device suddenly changes its reading, it is either due to some accident in the car or if accidently phone falls on the ground. 
+The primary stuff of applying any Statistical Model is to visualize the data. So, on plotting the data it is clearly visible that the data values are not uniformly distributed while they are forming a cluster along the boundary lines of the distribution range while the interior is empty. So, a binary classification model using logistic Regression is proved to be efficient in this case. The model also has the ability to learn from newly tested data. (i.e. whenever a new data is tested in the model, incase of any incorrect prediction it adds the information to the training set and auomatically corrects itself)
